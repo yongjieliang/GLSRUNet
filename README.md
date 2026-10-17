@@ -4,7 +4,8 @@ Open-source project from the **Medical AI ReSearch Group**.
 
 ## Links
 
-[Medical AI ReSearch Group](https://vvxa0627.github.io/Medical-AI-ReSearch-Group/) · [Author Homepage](https://yongjieliang.github.io/)
+[Medical AI ReSearch Group](https://vvxa0627.github.io/Medical-AI-ReSearch-Group/)
+[Author Homepage](https://yongjieliang.github.io/)
 
 <!--
 
@@ -13,8 +14,6 @@ Open-source project from the **Medical AI ReSearch Group**.
 **Title:** Example Paper Title  
 **Venue:** Example Conference / Journal  
 **DOI:** 10.xxxx/xxxxx
-
-> The publication metadata above is an example and should be replaced with the actual paper information.
 
 ## Citation
 
