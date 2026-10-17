@@ -14,7 +14,7 @@ Open-source project from the **Medical AI ReSearch Group**.
 
 **Title:** Example Paper Title  
 **Venue:** Example Conference / Journal  
-**DOI:** 10.xxxx/xxxxx
+**DOI:** [10.xxxx/xxxxx](https://doi.org/10.xxxx/xxxxx)
 
 ## Citation
 
