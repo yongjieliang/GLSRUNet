@@ -4,8 +4,7 @@ Open-source project from the **Medical AI ReSearch Group**.
 
 ## Links
 
-- Group Homepage: https://vvxa0627.github.io/Medical-AI-ReSearch-Group/
-- Author Homepage: https://yongjieliang.github.io/
+[Medical AI ReSearch Group](https://vvxa0627.github.io/Medical-AI-ReSearch-Group/) · [Author Homepage](https://yongjieliang.github.io/)
 
 <!--
 
