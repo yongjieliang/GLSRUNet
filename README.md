@@ -1,4 +1,3 @@
-**GLSRUNet**
 # Medical AI ReSearch Group Open-Source Project
 
 Open-source project from the **Medical AI ReSearch Group**.
